@@ -1,4 +1,4 @@
-# ProFin CNAB - Sistema de Processamento de Pagamentos
+# ProFin CNAB - Sistema de Processamento de Arquivos de Transações Financeiras CNAB (Frontend)
 
 ![Badge de Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
